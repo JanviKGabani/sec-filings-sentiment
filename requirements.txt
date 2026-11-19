@@ -1,0 +1,6 @@
+sec-edgar-downloader>=5.0
+beautifulsoup4>=4.12
+yfinance>=0.2.40
+pandas>=2.0
+scipy>=1.11
+jupyter
